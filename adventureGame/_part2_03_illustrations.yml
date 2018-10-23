@@ -1,0 +1,16 @@
+faction:
+  x: 75
+  y: 75
+  width: 75
+  height: 75
+human:
+  extends: faction
+  file: zion.svg
+drone:
+  extends: faction
+  file: zion.svg
+illustration:
+  x: 50
+  y: 75
+  width: 750
+  height: 1050
