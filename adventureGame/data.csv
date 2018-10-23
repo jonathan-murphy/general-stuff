@@ -1,5 +1,7 @@
-name,continent,terrain,description,prestige
-Zion,North America,mountain,Lorem Ipsum,
-Zion,North America,wood,Lorem Ipsum,
-Zion,North America,jungle,Lorem Ipsum,
-Zion,North America,desert,Lorem Ipsum,
+name,continent,terrain,description,prestige,cost
+Zion,North America,mountain,The World's First National Park,0,3
+Zion,South America,wood,Lorem Ipsum,1,2
+Zion,Asia,jungle,Lorem Ipsum,2,1
+Zion,Africa,desert,Lorem Ipsum,1,2
+Zion,Europe,mountain,The World's First National Park,3,1
+Zion,Australia,wood,Lorem Ipsum,0,3

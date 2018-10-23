@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="north america.svg">
+   sodipodi:docname="australia.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="-331.56002"
-     inkscape:cy="39.356286"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-506.1759"
+     inkscape:cy="385.7525"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -209,7 +209,7 @@
     </g>
     <g
        id="g7448"
-       transform="translate(-4.6774559,270.21092)">
+       transform="translate(62.139926,171.85573)">
       <g
          style="fill:#afe9c6"
          transform="translate(9.6684966,-63.541375)"
@@ -252,7 +252,8 @@
          sodipodi:type="star" />
     </g>
     <g
-       id="g7461">
+       id="g7461"
+       transform="translate(206.28587,74.099492)">
       <path
          d="m -23.858029,72.282066 -11.269277,6.506319 -11.269274,6.506319 -11.269275,-6.50632 -11.269275,-6.506318 10e-7,-13.012639 -10e-7,-13.012637 11.269276,-6.506319 11.269274,-6.506319 11.269276,6.50632 11.269275,6.506318 -1e-6,13.012639 z"
          inkscape:randomized="0"
@@ -285,7 +286,8 @@
       </g>
     </g>
     <g
-       id="g7455">
+       id="g7455"
+       transform="translate(133.06689,173.83573)">
       <ellipse
          ry="26.127605"
          rx="19.182293"
@@ -316,7 +318,8 @@
          r="26.127604" />
     </g>
     <g
-       id="g7434">
+       id="g7434"
+       transform="translate(146.891,218.2392)">
       <ellipse
          style="fill:#afe9dd;stroke:#5fd3bc;stroke-width:1.32291687;stroke-miterlimit:4;stroke-dasharray:none"
          id="ellipse3065"
